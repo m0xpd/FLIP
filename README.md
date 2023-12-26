@@ -7,7 +7,7 @@ value of an internally generated [Bernoulli Variable](https://web.stanford.edu/c
 
 At extreme settings of probability the clock always goes to one or other output, as described, but at intemediate settings a random allocation is made, such that the *probability* of the clock routing to output A is p and the *probability* of routing to B is (1-p). 
 
-When the probability, p is set to 0.5, the process becomes equivalent to a "coin toss"; the clock is routed to output A or B based on the decision of a coin toss at each clock cycle. As p moves from the 0.5 value, the coin becomes increasingly "biased", with the outcome favouring one or other outputs. Larger values of p favors output A.
+When the probability is set to p = 0.5, the process becomes equivalent to a "coin toss"; the clock is routed to output A or B based on the decision of a coin toss at each clock cycle. As p moves from the 0.5 value, the coin becomes increasingly "biased", with the outcome favouring one or other outputs. Larger values of p favors output A.
 
 Bernoulli Gates have become familiar objects in modular synthesizers, the definitive example being Mutable Instruments [Branches](https://pichenettes.github.io/mutable-instruments-documentation/modules/branches/) and various clones and versions on other platforms. There is also a Bernoulli Gate implementation within the Mutable Instruments [Marbles](https://pichenettes.github.io/mutable-instruments-documentation/modules/marbles/) module (and its clones), which is where it caught my interest. All these implementations are achieved in software, running on microcontrollers.
 
