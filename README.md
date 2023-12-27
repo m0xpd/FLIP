@@ -3,7 +3,7 @@
 This repository describes a 'Bernoulli Gate', intended for random switching applications in electronic music.
 
 A Bernoulli Gate, named for Swiss mathematician and physicist [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli), takes a clock input and routes it to one of two outputs, A & B, based on the 
-value of an internally generated [Bernoulli Variable](https://web.stanford.edu/class/archive/cs/cs109/cs109.1178/lectureHandouts/070-bernoulli-binomial.pdf). When this (discrete, Boolean) random variable has value 1, the clock is routed to output, A and when the variable has value 0, the clock is routed to output B. The probability of the Bernoulli variable assuming value "1", p, is set by a front panel control (and/or by CV input). The probability of the variable assuming value "0" is (of course) 1-p. 
+value of an internally generated [Bernoulli Variable](https://web.stanford.edu/class/archive/cs/cs109/cs109.1178/lectureHandouts/070-bernoulli-binomial.pdf). When this (discrete, Boolean) random variable has value 1 the clock is routed to output A, and when the variable has value 0 the clock is routed to output B. The probability of the Bernoulli variable assuming value "1", p, is set by a front panel control (and/or by CV input). The probability of the variable assuming value "0" is (of course) 1-p. 
 
 When the probability is set to p = 0.5, the process becomes equivalent to a "coin toss"; the clock is routed to output A or B based on the decision of a coin toss at each clock cycle. As p moves from the 0.5 value, the coin becomes increasingly "biased", with the outcome favouring one or other outputs. Larger values of p favors output A.
 
