@@ -1,2 +1,2 @@
-# A Eurorack implementation of the 'FLIP' Bernoulli Gate
+# A Eurorack Implementation of the 'FLIP' Bernoulli Gate
 
