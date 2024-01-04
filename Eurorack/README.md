@@ -1,2 +1,2 @@
-# This folder contains a description of the Eurorack version of FLIP
+# A Eurorack implementation of the 'FLIP' Bernoulli Gate
 
