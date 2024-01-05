@@ -29,6 +29,6 @@ The flip-flop is 'Set' when there is a leading edge of the clock AND the Bernoul
 
 The flip-flop is 'Reset' when 'Input' is false.
 
-This system was found to work perfectly well in application, but offended me, as I understood there was possibility for there to be the faint possibility of a 'lock' between  a harmonic of the clock and the sawtooth wave, making the process less-than-random. I had anticipated this in design and arranged for the sawtooth oscillator to be voltage controlled. A second stage of the 40106 is used to implement an oscillator from which a triangular wave (at around 800Hz) is generated. This frequency modulates the sawtooth, effectively removing the possibility of any 'lock' between the sawtooth and a regular clock signal. The process is practically random.
+This system was found to work perfectly well in application, but offended me, as I understood there was possibility for there to be the faint possibility of a 'lock' between  a harmonic of the clock and the sawtooth wave, making the process less-than-random. I had anticipated this in design and arranged for the sawtooth oscillator to be voltage controlled. A second stage of the 40106 is used to implement an oscillator from which a triangular wave (at around 800Hz) is generated. This frequency modulates the sawtooth, effectively removing the possibility of any 'lock' between the sawtooth and a regular clock signal. 
 
 
