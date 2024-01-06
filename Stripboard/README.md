@@ -35,7 +35,7 @@ I corrected these errors on the prototype and on the layout, yielding the follow
 
 In an attempt to make the layout clearer, +12V power links are shown in red, GROUND links are in green and -12V links are black. The remainder are blue.
 
-The board is shown below without components to allow the cuts and links to be more clearly seen:
+The board is shown below (viewed from the **top/component side**) without components to allow the cuts and links to be more clearly seen:
 
 <p align='center'>
 <img width=90%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate%20Cuts%20and%20Links.png">
