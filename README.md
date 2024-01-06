@@ -15,7 +15,7 @@ Two versions of the hardware for Flip are described in this repository. First, t
 
 # Circuit Operation
 
-Operation of the 'Flip" Bernoulli Gate will now be described in some detail. Reference should be made to [this system-level schematic](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.jpg) to which the component idents, circuit block names, and node names, in the description below refer. [Note that these idents differ from those used in the Eurorack version.]
+Operation of the 'Flip" Bernoulli Gate will now be described in some detail. Reference should be made to [this system-level schematic](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.jpg) to which the component idents, circuit block names, and node names, in the description below refer. [Note that these component idents differ from those used in the Eurorack version.]
 
 Flip derives a new value of a Bernoulli variable, p (as has been briefly inrtroduced above) at the start of every clock input. This is done by comparing the magnitude of a sawtooth wave to a threshold value. 
 
