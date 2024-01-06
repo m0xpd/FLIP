@@ -32,3 +32,21 @@ The prototype stripboard system (seen pictured at the head of this page) was mad
 <p align='center'>
 <img width=90%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate%20Stripboard%20Layout.png">
 </p>
+
+In an attempt to make the layout clearer, +12V power links are shown in red, GROUND links are in green and -12V links are black. The remeinder are blue.
+
+The board is shown without components to allow the cuts and links to be more clearly seen here:
+
+<p align='center'>
+<img width=90%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate%20Cuts%20and%20Links.png">
+</p>
+
+Finally, an image showing off-board connections is seen here:
+
+<p align='center'>
+<img width=90%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate%20Connections.png">
+</p>
+
+The entire DIYLC file is available for download [here](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.diy). It must be opened in[DIYLC](https://bancika.github.io/diy-layout-creator/)
+
+Whilst the layout above was developed directly from the prototype stripboard system, which is working, the layout has not been verified. I would appreciate either verification from anybody who builds from this layout or notification of any errors/omissions
