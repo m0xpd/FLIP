@@ -25,7 +25,9 @@ There is a description of system operation, which references the schematic, [her
 
 # Stripboard Layout
 
-The prototype stripboard system (seen pictured at the head of this page) was made from a DIYLC design, which was found to have a few errors (this was my first time using the software). I corrected there errors on the prototype and on the layout, yielding the following design:
+The prototype stripboard system (seen pictured at the head of this page) was made from a DIYLC design, which was found to have a few errors (this was my first time using the software). 
+
+I corrected these errors on the prototype and on the layout, yielding the following design:
 
 <p align='center'>
 <img width=90%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate%20Stripboard%20Layout.png">
