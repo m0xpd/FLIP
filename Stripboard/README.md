@@ -21,7 +21,7 @@ The schematic is linked below (click on the image to open the schematic at highe
 <img width=70%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.jpg">
 </p>
 
-There is a description of system operation, which references the schematic, here.
+There is a description of system operation, which references the schematic, [here](https://github.com/m0xpd/Flip/tree/main#circuit-operation).
 
 # Stripboard Layout
 
