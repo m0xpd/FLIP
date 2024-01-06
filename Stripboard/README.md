@@ -10,7 +10,7 @@ During development I made a prototype on stripboard, based on a design made in [
 
 I have decided (for the first time) to publish a stripboard layout for this project as 
 * it is small enough to make the stripboard layout tractable
-* there is a considerable tradition within synth DIY for the use of stripboard - demonstrated at [Eddy Bergman's site](https://www.eddybergman.com/)
+* there is a considerable tradition within synth DIY for the use of stripboard - as demonstrated at [Eddy Bergman's site](https://www.eddybergman.com/)
 * the test/development version was close-enough to completion to make this task simple and, finally, 
 * publishing a stripboard layout might make FLIP accessible to a few more potential users, who might otherwise be put off by the PCBs.
 
