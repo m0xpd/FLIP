@@ -47,6 +47,6 @@ Finally, an image showing off-board connections is seen here:
 <img width=90%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate%20Connections.png">
 </p>
 
-The entire DIYLC file is available for download [here](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.diy). It must be opened in[DIYLC](https://bancika.github.io/diy-layout-creator/)
+The entire DIYLC file is available for download [here](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.diy). It must be opened in [DIYLC](https://bancika.github.io/diy-layout-creator/)
 
 Whilst the layout above was developed directly from the prototype stripboard system, which is working, the layout has not been verified. I would appreciate either verification from anybody who builds from this layout or notification of any errors/omissions
