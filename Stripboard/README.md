@@ -1,7 +1,5 @@
 # A Stripboard Layout for the 'FLIP' Bernoulli Gate
 
-This folder contains a stripboard layout for the FLIP Bernoulli Gate.
-
 During development I made a prototype on stripboard, based on a design made in [DIYLC](https://bancika.github.io/diy-layout-creator/) :
 
 <p align='center'>
