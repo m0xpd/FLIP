@@ -14,6 +14,12 @@ I have decided (for the first time) to publish a stripboard layout for this proj
 * the test/development version was close-enough to completion to make this task simple and, finally, 
 * publishing a stripboard layout might make FLIP accessible to a few more potential users, who might otherwise be put off by the PCBs.
 
+The layout shows a Eurorack power header and the system is designed for +/- 12V power operation. 
+
+The board is really too big for Eurorack (it certainly isn't skiff-friendly!) and would need a deep case to run in a Eurorack system. Most of my card frames are only 155mm deep, which isn't really enough to hold the stripboard (which is ~140mm long). I have one 6U which is about 175mm deep, but I still don't plan to run the stripboard prototype *inside* my Eurorack system. 
+
+Other power connectors can easily fit in the space allocated for the 2*5 Eurorack header.
+
 # System Schematic
 
 First, we need to look at the schematic for the entire system (presented here as one sheet - unlike in the Eurorack folder, where there are separate sheets for the two PCBs).
