@@ -37,11 +37,11 @@ The photo below shows behaviour when the threshold, 'Thres' is at about 50% of t
 <img width=80%, src="https://github.com/m0xpd/Flip/blob/main/Graphics/Triggering%20at%20Top%20of%20Range.jpg">
 </p>
 
-It is seen that the Bernoulli variable is almost failing to register the peaks in the sawtooth; this is why the sawtooth wave is limited to 3.5kHz in frequency. 
+It is seen that the Bernoulli variable is almost failing to register the peaks in the sawtooth. Taking the threshold value any higher in the practical circuit causes the comparator to fail to produce any 'non-zero' (in a logical sense) output. This is why the sawtooth wave - and the operation of Flip - has been limited to 3.5kHz. 
 
-The potential divider at the CV input, J2 (R13,R14) is obviously loaded by the input resistance of the susbsequent attenuverter stage, but it still offers around 6dB of attenuation in any configuration of the attenuverter. This allows a 5V CV signal to switch the system from i) routing 100% of clock pulses to one ouput over to ii) switching 100% to the other output with the attenuverter at either extreme (a higher CV input can achieve the same control at a lower attenuverter setting). Obviously, less extreme changes in configuration can be achieved with smaller CV changes (or with lower attenuverter settings).  
+The potential divider at the CV input, J2 (R13,R14) is obviously loaded by the input resistance of the susbsequent attenuverter stage; this "loaded attenuator" produces around 6dB of attenuation in any configuration of the attenuverter. This allows a 5V CV signal to control the system, switching the gate from fully "on" to fully "off" (a higher CV input can achieve the same control at a lower attenuverter setting). Obviously, less extreme changes in configuration can be achieved with smaller control voltage changes (or with lower attenuverter settings).  
 
-An external clock signal is applied via J4 to a Schmitt trigger input circuit 'CLOCK IN' (with upward switchig threshold of 1.4V and downward threshold of 1.05V) to produce the gate signal, 'Input', which indicates an active clock . The start of the clock is detected by a typical passive differentiator / diode combination (C10,R30,D8), producing the signal 'dInput'.
+The external clock signal is applied via J4 to Flip's Schmitt trigger input circuit 'CLOCK IN' (with upward switchig threshold of 1.4V and downward threshold of 1.05V) to produce the gate signal, 'Input', which indicates an active clock. The start of this clock is detected by a typical passive differentiator / diode combination (C10,R30,D8), producing the signal 'dInput'.
 
 The system is built around a trivial state machine which has two states, held on a SR flip-flop. I imlemented the flip-flop on 4001 (NOR) and 4081 (AND) gates, which were to hand (Flip was designed around 'available materials') and provided sufficient logic resources for the remainder of the system. The transitions for the state machine were sufficient to define the Set and Reset signals:
 
@@ -57,8 +57,8 @@ The photo below shows triggering with FM enabled:
 <img width=80%, src="https://github.com/m0xpd/Flip/blob/main/Graphics/Triggering%20with%20FM.jpg">
 </p>
 
-The threshold has been set to approximately 0V and the Bernoulli variable is returning a true value approximately 50% of the time; this is a "fair" coin toss. Variation in period of the sawtooth resulting from the frequency modulation is clearly visible.
+The threshold has been set to approximately 0V and the Bernoulli variable is returning a true value approximately 50% of the time; this is a "fair" coin toss. Variation in the period of the sawtooth (and the resulting outputs from the comparator) caused by the frequency modulation is clearly visible.
 
-The three outputs use a simple 'emitter follower' buffer scheme taught by Ken Stone. The 'A' output follows directly the 'Q' output of the flip-flop. The 'B' output must be derived from additional logic to AND the complemented flip-flop state _Q with the clock. Finally, a clock signal output is provided. This output is driven by a further inversion of _Input, rather than adding further load to the output of the CLOCK IN circuit, which could impact the edge detection circuit. 
+Flip's three outputs use a simple 'emitter follower' buffer scheme taught by Ken Stone. The 'A' output follows directly the 'Q' output of the flip-flop. The 'B' output must be derived from additional logic to AND the complemented flip-flop state _Q with the clock. Finally, a clock signal output is provided. This output is driven by a further inversion of _Input, rather than adding further load to the output of the CLOCK IN circuit, which could impact the edge detection circuit. 
 
 
