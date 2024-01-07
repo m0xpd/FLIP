@@ -53,7 +53,7 @@ This system was found to work perfectly well in practical musical application, b
 
 The photo below shows triggering with FM enabled:
 
-<p align='center>
+<p align='center'>
 <img width=80%, src="https://github.com/m0xpd/Flip/blob/main/Graphics/Triggering%20with%20FM.jpg">
 </p>
 
