@@ -51,6 +51,14 @@ The flip-flop is 'Reset' when 'Input' is false (Reset = _Input).
 
 This system was found to work perfectly well in practical musical application, but offended me, as I understood there was possibility for a 'lock' between  a harmonic of the clock and the sawtooth wave, making the process less than random. I had anticipated this in design and arranged for the sawtooth oscillator to be voltage controlled. A second stage of the 40106 ('FM Osc') is used to implement an oscillator from which a triangular wave (at around 800Hz) is generated. This triangular wave frequency modulates the sawtooth, effectively removing the possibility of any 'lock' between the sawtooth and a regular clock signal. 
 
+The photo below shows triggering with FM enabled:
+
+<p align='center>
+<img width=80%, src="https://github.com/m0xpd/Flip/blob/main/Graphics/Triggering%20with%20FM.jpg">
+</p>
+
+The threshold has been set to approximately 0V and the Bernoulli variable is returning a true value approximately 50% of the time; this is a "fair" coin toss. Variation in period of the sawtooth resulting from the frequency modulation is clearly visible.
+
 The three outputs use a simple 'emitter follower' buffer scheme taught by Ken Stone. The 'A' output follows directly the 'Q' output of the flip-flop. The 'B' output must be derived from additional logic to AND the complemented flip-flop state _Q with the clock. Finally, a clock signal output is provided. This output is driven by a further inversion of _Input, rather than adding further load to the output of the CLOCK IN circuit, which could impact the edge detection circuit. 
 
 
