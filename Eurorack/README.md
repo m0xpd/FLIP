@@ -8,6 +8,8 @@ The control board accommodates all the front panel user interface components and
 
 The two PCBs are joined electrically by two 1*8 way 0.1 inch headers, with further mechanical security provided by a pair of 3mm bolts and spacers.
 
+Full design details of the main coard, control board, and front panel are presented as KiCad projects. The folders include schematics and BoMs, where relevant.
+
 # Specifications
 
 **Width:** 
