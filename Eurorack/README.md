@@ -18,7 +18,7 @@ FLIP is **6 HP wide**.
 
 **Depth:**
 
-FLIP extends **43 mm** behind the [front panel](https://github.com/m0xpd/STRACHEY/blob/main/Hardware/Panel/README.md) when a conventional Eurorack power header **with strain relief** is inserted.
+FLIP extends **43 mm** behind the [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) when a conventional Eurorack power header **with strain relief** is inserted.
 
 **Power Consumption:**
 
