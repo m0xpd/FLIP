@@ -13,6 +13,10 @@ The Bernoulli Gate described in this repository is distinguished by being a comp
 
 Two versions of the hardware for Flip are described in this repository. First, there is an implementation as a [Eurorack Module](https://github.com/m0xpd/Flip/blob/main/Eurorack/README.md), with full design details of the PCBs and front panel required for the 6HP module seen in the image at the head of this page. Second, I have included a [stripboard layout](https://github.com/m0xpd/Flip/blob/main/Stripboard/README.md) for the circuit for people who wish to build for a different format or who prefer to avoid the expense of making PCBs. The schematic for Flip is presented as a single, system-level circuit in the [stripboard version](https://github.com/m0xpd/Flip/blob/main/Stripboard/README.md), whereas the [Eurorack version](https://github.com/m0xpd/Flip/blob/main/Eurorack/README.md) splits the system into two elements for implementation on two PCBs. Accordingly, those wishing to understand system operation might prefer to look at the schematic in the stripboard folder first. 
 
+# License
+
+The circuit design, the Eurorack implementation and all material in this repository is published under a Creative Commons CC BY-SA 4.0 [License](https://github.com/m0xpd/Flip/blob/main/LICENSE.txt)
+
 # Circuit Operation
 
 Operation of the 'Flip' Bernoulli Gate will now be described in some detail. Reference should be made to [this system-level schematic](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.jpg) to which the component idents, circuit block names, and node names in the description below refer. [Note that these component idents differ from those used in the Eurorack version.]
