@@ -10,6 +10,6 @@ There is a KiCad [Project file](https://github.com/m0xpd/FLIP/blob/main/Eurorack
 There is also a schematic (click on the image below to open a larger version) and a BoM in Excel format ()
 
 <p align='center'>
-<img, width=70%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.jpg">
+<img width=70%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.jpg">
 </p>
 
