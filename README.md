@@ -1,4 +1,4 @@
-# Flip
+# FLIP
 
 This repository describes a 'Bernoulli Gate', intended for random switching applications in electronic music.
 
