@@ -41,7 +41,7 @@ The photo below shows behaviour when the threshold, 'Thres' is at about 50% of t
 <img width=80%, src="https://github.com/m0xpd/Flip/blob/main/Graphics/Triggering%20at%20Top%20of%20Range.jpg">
 </p>
 
-It is seen that the Bernoulli variable is almost failing to register the peaks in the sawtooth. Taking the threshold value any higher in the practical circuit causes the comparator to fail to produce any 'non-zero' (in a logical sense) output. This is why the sawtooth wave - and the operation of Flip - has been limited to 3.5kHz. 
+It is seen that the Bernoulli variable is almost always "0"; this is the highest we can take the threshold voltage before it locks the gate "off". Taking the threshold value any higher in the practical circuit causes the comparator to fail to produce any 'non-zero' (in a logical sense) output. This is why the sawtooth wave - and the operation of FLIP - has been limited to 3.5kHz. 
 
 The potential divider at the CV input, J2 (R13,R14) is obviously loaded by the input resistance of the susbsequent attenuverter stage; this "loaded attenuator" produces around 6dB of attenuation in any configuration of the attenuverter. This allows a 5V CV signal to control the system, switching the gate from fully "on" to fully "off" (a higher CV input can achieve the same control at a lower attenuverter setting). Obviously, less extreme changes in configuration can be achieved with smaller control voltage changes (or with lower attenuverter settings).  
 
