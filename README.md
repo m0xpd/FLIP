@@ -15,7 +15,7 @@ Two versions of the hardware for Flip are described in this repository. First, t
 
 # License
 
-The circuit design, the Eurorack implementation and all material in this repository is published under a Creative Commons CC BY-SA 4.0 [License](https://github.com/m0xpd/Flip/blob/main/LICENSE.txt)
+The circuit design, the Eurorack implementation, and all material in this repository is published under a Creative Commons CC BY-SA 4.0 [License](https://github.com/m0xpd/Flip/blob/main/LICENSE.txt)
 
 # Circuit Operation
 
