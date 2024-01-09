@@ -13,3 +13,5 @@ There is also a schematic (click on the image below to open a larger version) an
 <img width=70%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.jpg">
 </p>
 
+The schematic above follows pretty closely the [system-level schematic presented in the stripboard folder](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.jpg) apart from the fact that I have swapped the inverters (from the 40106) on the input to the Clock output stage and in the State Machine with unused gates in the 4001 package. This was done solely for convenience in laying out the PCB and has no impact on system operation - the Schmitt trigger inputs were not being exploited and the NOR gates can work perfectly well as inverters.
+
