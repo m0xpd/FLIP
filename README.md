@@ -63,6 +63,6 @@ The photo below shows triggering with FM enabled:
 
 The threshold has been set to approximately 0V and the Bernoulli variable is returning a true value approximately 50% of the time; this is a "fair" coin toss. Variation in the period of the sawtooth (and the resulting outputs from the comparator) caused by the frequency modulation is clearly visible.
 
-FLIP's three outputs use a simple 'emitter follower' buffer scheme taught by Ken Stone. The 'A' output follows directly the 'Q' output of the flip-flop. The 'B' output must be derived from additional logic to AND the complemented flip-flop state _Q with the clock. Finally, a clock signal output is provided. This output is driven by a further inversion of _Input, rather than adding further load to the output of the CLOCK IN circuit, which could impact the edge detection circuit. 
+FLIP's three outputs use a simple 'emitter follower' buffer scheme taught by Ken Stone. The 'A' output follows directly the 'Q' output of the flip-flop. The 'B' output must be derived from additional logic to AND the complemented flip-flop state _Q with the input clock/gate signal. Finally, an output is provided which mirrors the input. This output is driven by a further inversion of _Input, rather than adding further load to the output of the CLOCK IN circuit, which could impact the edge detection circuit. 
 
 
