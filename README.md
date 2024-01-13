@@ -61,7 +61,7 @@ The photo below shows triggering with FM enabled:
 <img width=80%, src="https://github.com/m0xpd/Flip/blob/main/Graphics/Triggering%20with%20FM.jpg">
 </p>
 
-The threshold has been set to approximately 0V and the Bernoulli variable is returning a true value approximately 50% of the time; this is a "fair" coin toss. Variation in the period of the sawtooth (and the resulting outputs from the comparator) caused by the frequency modulation is clearly visible.
+The threshold has been set to approximately 0V and the Bernoulli variable is returning a true value approximately 40% of the time; this is close to a "fair" coin toss (but not exactly fair, as the 0V threshold is not at the middle of the range determined by the two limiting cases shown in the previous two oscilloscope screen shots). Variation in the period of the sawtooth (and the resulting outputs from the comparator) caused by the frequency modulation is clearly visible.
 
 FLIP's three outputs use a simple 'emitter follower' buffer scheme taught by Ken Stone. The 'A' output follows directly the 'Q' output of the flip-flop. The 'B' output must be derived from additional logic to AND the complemented flip-flop state _Q with the input clock/gate signal. Finally, an output is provided which mirrors the input. This output is driven by a further inversion of _Input, rather than adding further load to the output of the CLOCK IN circuit, which could impact the edge detection circuit. 
 
