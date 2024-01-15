@@ -33,7 +33,7 @@ The photo below shows the 'Saw' waveform (in Yellow), the threshold voltage, 'Th
 
 It is seen that the Bernoulli variable is almost always "1", as expected.
 
-However, in the practical circuit, frequency response, slew rate and "gain-bandwidth" limitations in the op-amp used as the comparator impose a limit when the threshold is placed closer to the top of the sawtooth's range.
+In the practical circuit, frequency response, slew rate and "gain-bandwidth" limitations in the op-amp used as the comparator impose a limit when the threshold is placed closer to the top of the sawtooth's range.
 
 The photo below shows behaviour when the threshold, 'Thres' is at about 50% of the positive range of the sawtooth.
 
