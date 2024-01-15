@@ -10,7 +10,7 @@ The component board is mounted to the front panel by the probability control pot
 
 The two PCBs are joined electrically by two 1*8 way 0.1 inch headers, with further mechanical security provided by a pair of 3mm bolts and spacers.
 
-Full design details of the [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/README.md), [control board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/README.md), and [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) are presented as KiCad projects. The folders include schematics and BoMs, where relevant.
+Full design details of the [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/README.md), [control board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/README.md), and [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) are presented as KiCad projects. The folders also include schematics and BoMs, where relevant.
 
 # Specifications
 
