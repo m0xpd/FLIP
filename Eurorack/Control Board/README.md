@@ -6,7 +6,7 @@ There is a KiCad [Project file](https://github.com/m0xpd/FLIP/blob/main/Eurorack
 
 [JLC](https://jlcpcb.com/) made my prototype PCBs (seen above) and did their usual great job.
 
-There is also a schematic (click on the image below to open a larger version) and a BoM in [Excel format](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board%20BoM.xlsx)
+There is also a schematic (click on the image below to open a larger version) and a BoM, saved as an [Excel file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board%20BoM.xlsx)
 
 <p align='center'>
 <img width=70%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board.jpg">
