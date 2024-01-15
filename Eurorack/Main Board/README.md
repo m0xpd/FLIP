@@ -5,7 +5,7 @@ This folder contains details of the Main Board for the Eurorack implementation o
 
 There is a KiCad [Project file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_pro) a [schematic file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_sch) and a [PCB file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_pcb). 
 
-[JLC](https://jlcpcb.com/) made my prototype panels (seen above) and did their usual great job.
+[JLC](https://jlcpcb.com/) made my prototype PCBs (seen above) and did their usual great job.
 
 There is also a schematic (click on the image below to open a larger version) and a BoM in [Excel format](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board%20BoM.xlsx)
 
