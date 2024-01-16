@@ -5,7 +5,7 @@ This folder contains details of the Control Board for the Eurorack implementatio
 There is a KiCad [Project file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board.kicad_pro) a [schematic file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board.kicad_sch) and a [PCB file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board.kicad_pcb). 
 
 <p align='center'>
-<img width=40&, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board%20Unpopulated.jpg">
+<img width=40%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board%20Unpopulated.jpg">
 </p>
 
 [JLC](https://jlcpcb.com/) made my prototype PCBs (seen above) and did their usual great job.
