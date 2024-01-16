@@ -18,6 +18,14 @@ The two PCBs are joined electrically by two 1*8 way 0.1 inch headers, with furth
 
 Full design details of the [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/README.md), [control board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/README.md), and [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) are presented as KiCad projects. The folders also include schematics and BoMs, where relevant.
 
+Populated boards from my first build are seen below.
+
+First, there is a view of the "outside" of the sandwich; the component side of the main board and the bottom side of the control board:
+
+<p align='center'>
+<img width=50%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20PCBs%20Populated%20Outside%20View.jpg">
+</p>
+
 # Specifications
 
 **Width:** 
