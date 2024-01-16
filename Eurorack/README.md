@@ -14,7 +14,7 @@ The component board is mounted to the front panel by the probability control pot
 
 The two PCBs are joined electrically by two 1*8 way 0.1 inch headers, with further mechanical security provided by a pair of 3mm bolts and spacers.
 
-** Note:** the 12V line runs close to the upper spacer on the main board (on the bottom side of the PCB). If you use a metal you would be well advised to insert an insulating washer at this point. I didn't have one on my first assembly, so I made an insulating spacer.  
+**Note:** the 12V line runs close to the upper spacer on the main board (on the bottom side of the PCB). If you use a metal you would be well advised to insert an insulating washer at this point. I didn't have one on my first assembly, so I made an insulating spacer.  
 
 Full design details of the [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/README.md), [control board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/README.md), and [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) are presented as KiCad projects. The folders also include schematics and BoMs, where relevant.
 
@@ -32,6 +32,6 @@ FLIP extends **43 mm** behind the [front panel](https://github.com/m0xpd/FLIP/bl
 
 | Power Rail | Current |
 |---|---|
-| +12V | **xxmA** |
-| -12V | **xxmA** |
+| +12V | **5.5mA** |
+| -12V | **2.7mA** |
 | 5V | **0** |
