@@ -1,6 +1,6 @@
 # FLIP Front Panel
 
-This folder contains a Eurorack front panel design for the FLIP Bernoulli Gate, expressed as a KiCad project.
+This [folder](https://github.com/m0xpd/FLIP/tree/main/Eurorack/Front%20Panel) contains a Eurorack front panel design for the FLIP Bernoulli Gate, expressed as a KiCad project.
 
 There is a KiCad [Project file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/Files/Flip%20Front%20Panel.kicad_pro) and a [PCB file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/Files/Flip%20Front%20Panel.kicad_pcb). 
 
