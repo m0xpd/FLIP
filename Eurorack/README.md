@@ -1,6 +1,6 @@
 # A Eurorack Implementation of the 'FLIP' Bernoulli Gate
 
-The Eurorack version of Flip is implemened as a 'sandwich' construction of two printed circuit boards.
+The Eurorack version of Flip is implemented as a 'sandwich' construction of two printed circuit boards.
 
 The [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/README.md) contains the majority of the active electronics, realised in 4000 series CMOS logic and a quad J-FET input TL084 op-amp.
 
