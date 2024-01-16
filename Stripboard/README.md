@@ -12,7 +12,7 @@ I have decided (for the first time) to publish a stripboard layout for this proj
 * the test/development version was close-enough to completion to make this task simple and, finally, 
 * publishing a stripboard layout might make FLIP accessible to a few more potential users, who might otherwise be put off by the PCBs.
 
-The stripboard layout will work well in 4U ("Kosmo") and MU applications (althouigh the main board can easily be adapted for these non-Eurorack applications too). There's more discussion of the implications of the stripboard layout's size [here]
+The stripboard layout will work well in 4U ("Kosmo") and MU applications (althouigh the main board can easily be adapted for these non-Eurorack applications too). There's more discussion of the implications of the stripboard layout's size [here](https://github.com/m0xpd/FLIP/blob/main/Stripboard/README.md#board-size-and-operation-on-different-power-rails)
 
 # System Schematic
 
