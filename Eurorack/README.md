@@ -32,6 +32,6 @@ FLIP extends **43 mm** behind the [front panel](https://github.com/m0xpd/FLIP/bl
 
 | Power Rail | Current |
 |---|---|
-| +12V | **5.5mA** |
-| -12V | **2.7mA** |
+| +12V | **5.5mA** (max) |
+| -12V | **2.7mA** (max) |
 | 5V | **0** |
