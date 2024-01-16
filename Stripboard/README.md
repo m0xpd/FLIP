@@ -61,9 +61,9 @@ For those not familiar with github, the DIYLC file will open as a text file in a
 
 Whilst the layout above was developed directly from the prototype stripboard system, which is working, the layout **has not been verified**. 
 
-It is offered in good faith and is - as far as I can see - an accurate mirror of a working stripboard layout. However, I cannot claim it is yet verified.
+It is offered in good faith and is - as far as I can see - an accurate mirror of my working stripboard system. However, I cannot claim it is yet verified.
 
-I would appreciate either verification from anybody who builds from this layout or notification of any errors/omissions.
+I would appreciate either i) verification from anybody who builds from this layout or ii) notification of any errors/omissions.
 
 # Board Size and Operation on Different Power Rails
 
