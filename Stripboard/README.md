@@ -51,6 +51,12 @@ Finally, an image showing off-board connections is seen here:
 
 The entire DIYLC file is available for download [here](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.diy). It must be opened in [DIYLC](https://bancika.github.io/diy-layout-creator/)
 
+For those not familiar with github, the DIYLC file will open as a text file in a new window - you need to download the "Raw File", by clocking on the button at top right of the screen, as shown below:
+
+<p align='center'>
+<img width=70%, src="https://github.com/m0xpd/FLIP/blob/main/Stripboard/Graphics/Download%20Instructions.png">
+</p>
+
 **IMPORTANT:** Whilst the layout above was developed directly from the prototype stripboard system, which is working, the layout **has not been verified**. I would appreciate either verification from anybody who builds from this layout or notification of any errors/omissions
 
 # Board Size and Operation on Different Power Rails
