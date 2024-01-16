@@ -12,18 +12,18 @@ I have decided (for the first time) to publish a stripboard layout for this proj
 * the test/development version was close-enough to completion to make this task simple and, finally, 
 * publishing a stripboard layout might make FLIP accessible to a few more potential users, who might otherwise be put off by the PCBs.
 
-The stripboard layout will work well in 4U ("Kosmo") and MU applications (althouigh the main board can easily be adapted for these non-Eurorack applications too). There's more discussion of the implications of the stripboard layout's size [here](https://github.com/m0xpd/FLIP/blob/main/Stripboard/README.md#board-size-and-operation-on-different-power-rails)
+The stripboard layout will work well in "Kosmo" and MU applications (althouigh the main board can easily be adapted for these non-Eurorack applications too). There's more discussion of the implications of the stripboard layout's size [here](https://github.com/m0xpd/FLIP/blob/main/Stripboard/README.md#board-size-and-operation-on-different-power-rails)
 
 # System Schematic
 
-First, we need to look at the schematic for the entire system (presented here as one sheet - unlike in the Eurorack folder, where there are separate sheets for the two PCBs).
+First, we need to look at the schematic for the entire system (presented here as one sheet - unlike in the [Eurorack folder](https://github.com/m0xpd/FLIP/tree/main/Eurorack), where there are separate sheets for the two PCBs).
 
 The schematic is linked below (click on the image to open the schematic at higher-resolution, which you can download):
 <p align='center'>
 <img width=70%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.jpg">
 </p>
 
-There is a description of system operation, which references the schematic, [here](https://github.com/m0xpd/Flip/tree/main#circuit-operation).
+There is a description of system operation, which references the schematic above, [here](https://github.com/m0xpd/Flip/tree/main#circuit-operation).
 
 # Stripboard Layout
 
@@ -37,7 +37,7 @@ I corrected these errors on the prototype and on the layout, yielding the follow
 
 In an attempt to make the layout clearer, +12V power links are shown in red, GROUND links are in green and -12V links are black. The remainder are blue.
 
-The board is shown below (viewed from the **top/component side**) without components to allow the cuts and links to be more clearly seen:
+The board is shown below (viewed from the **top/component side**) without components, to allow the cuts and links to be more clearly seen:
 
 <p align='center'>
 <img width=90%, src="https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate%20Cuts%20and%20Links.png">
@@ -51,7 +51,7 @@ Finally, an image showing off-board connections is seen here:
 
 The entire DIYLC file is available for download [here](https://github.com/m0xpd/Flip/blob/main/Stripboard/Graphics/m0xpd%20FLIP%20Bernoulli%20Gate.diy). It must be opened in [DIYLC](https://bancika.github.io/diy-layout-creator/)
 
-Whilst the layout above was developed directly from the prototype stripboard system, which is working, the layout **has not been verified**. I would appreciate either verification from anybody who builds from this layout or notification of any errors/omissions
+**IMPORTANT:** Whilst the layout above was developed directly from the prototype stripboard system, which is working, the layout **has not been verified**. I would appreciate either verification from anybody who builds from this layout or notification of any errors/omissions
 
 # Board Size and Operation on Different Power Rails
 
