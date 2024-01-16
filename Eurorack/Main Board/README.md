@@ -1,6 +1,6 @@
 # FLIP Main Board
 
-This folder contains details of the Main Board for the Eurorack implementation of the FLIP Bernoulli Gate, expressed as a KiCad project.
+This [folder](https://github.com/m0xpd/FLIP/tree/main/Eurorack/Main%20Board) contains details of the Main Board for the Eurorack implementation of the FLIP Bernoulli Gate, expressed as a KiCad project.
 
 
 There is a KiCad [Project file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_pro) a [schematic file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_sch) and a [PCB file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_pcb). 
