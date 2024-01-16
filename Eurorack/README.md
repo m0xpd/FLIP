@@ -20,13 +20,13 @@ Full design details of the [main board](https://github.com/m0xpd/FLIP/blob/main/
 
 Populated boards from my first build are seen below.
 
-First, there is a view of the "outside" of the sandwich; the component side of the main board (left) and the bottom side of the control board (right), which houses the user interface components which protrude through the front panel:
+First, there is an exploded view of the "outside" of the sandwich; the component side of the main board (left) and the bottom side of the control board (right), which houses the user interface components which protrude through the front panel:
 
 <p align='center'>
 <img width=50%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20PCBs%20Populated%20Outside%20View.jpg">
 </p>
 
-Finally, a view of the "inside" of the sandwich; the bottom of the main board (left) and the component side of the control board (right):
+Finally, aan exploded view of the "inside" of the sandwich, showing the headers which join the boards, the bottom of the main board (left), and the component side of the control board (right):
 
 <p align='center'>
 <img width=50%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20PCBs%20Populated%20Inside%20View.jpg">
