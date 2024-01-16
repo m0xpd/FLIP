@@ -3,7 +3,7 @@
 This repository describes a 'Bernoulli Gate', intended for switching applications in electronic music.
 
 <p align='center'>
-<img width=50%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20Front%20Perspective%20Right.jpg">
+<img width=40%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20Front%20Perspective%20Right.jpg">
 </p>
   
   
