@@ -32,7 +32,7 @@ Finally, an exploded view of the "inside" of the sandwich, showing the headers w
 <img width=50%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20PCBs%20Populated%20Inside%20View.jpg">
 </p>
 
-(The two boards are the same size but are at different distances from the camera in the images above, making them appear differently dimensioned!)
+(The two boards are the same size but are at different distances from the camera in the images above, making them appear differently dimensioned)
 
 # Specifications
 
