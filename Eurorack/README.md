@@ -10,7 +10,7 @@ The [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/R
 
 The [control board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/README.md) accommodates all the [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) user interface components, the input/output connectors, and the output buffer stages. 
 
-The component board is mounted to the front panel by the probability control potentiometer and five 'Thonkiconn' 3.5mm jack sockets.
+The component board is mounted to the front panel by the probability control potentiometer, RV2, and five 'Thonkiconn' 3.5mm jack sockets.
 
 The two PCBs are joined electrically by two 1*8 way 0.1 inch headers, with further mechanical security provided by a pair of 3mm bolts and spacers.
 
