@@ -8,4 +8,4 @@ There is a KiCad [Project file](https://github.com/m0xpd/FLIP/blob/main/Eurorack
 <img width=40%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/Files/Flip%20Front%20Panel.jpg">
 </p>
 
-[JLC](https://jlcpcb.com/) made my prototype panels (seen above) and did their usual great job. However, the black panel with white lettering is now VERY expensive; if you want to save money, choose white with black lettering! 
+[JLC](https://jlcpcb.com/) made my prototype panels (seen above) and did their usual great job. However, the black Aluminium panel with white lettering is now VERY expensive; if you want to save money, choose white with black lettering! 
