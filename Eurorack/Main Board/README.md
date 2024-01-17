@@ -6,7 +6,7 @@ This [folder](https://github.com/m0xpd/FLIP/tree/main/Eurorack/Main%20Board) con
 There is a KiCad [Project file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_pro) a [schematic file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_sch) and a [PCB file](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board.kicad_pcb). 
 
 <p align='center'>
-<img width=40%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board%20Unpopulated.jpg">
+<img width=30%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/Files/Flip%20Main%20Board%20Unpopulated.jpg">
 </p>
 
 [JLC](https://jlcpcb.com/) made my prototype PCBs (seen above) and did their usual great job.
