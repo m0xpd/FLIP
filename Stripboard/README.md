@@ -7,16 +7,16 @@ During development I made a prototype on stripboard, based on a design made in [
 </p>
 
 I have decided (for the first time) to publish a stripboard layout for this project as 
-* it is small enough to make the stripboard layout tractable
+* it is small enough to make the stripboard layout manageable
 * there is a considerable tradition within synth DIY for the use of stripboard - as demonstrated at [Eddy Bergman's site](https://www.eddybergman.com/)
-* the test/development version was close-enough to completion to make this task simple and, finally, 
+* the test/development version was close enough to completion to make this task simple and, finally, 
 * publishing a stripboard layout might make FLIP accessible to a few more potential users, who might otherwise be put off by the PCBs.
 
-The stripboard layout will work well in "Kosmo" and MU applications etc (although the main board can easily be adapted for these non-Eurorack applications too). There's more discussion of the implications of the stripboard layout's size [here](https://github.com/m0xpd/FLIP/blob/main/Stripboard/README.md#board-size-and-operation-on-different-power-rails)
+The stripboard layout will work well in "Kosmo" and MU applications etc (although the main board can easily be adapted for these formats too). There's more discussion of the implications of the stripboard layout's size [here](https://github.com/m0xpd/FLIP/blob/main/Stripboard/README.md#board-size-and-operation-on-different-power-rails)
 
 # System Schematic
 
-First, we need to look at the schematic for the entire system (presented here as one sheet - unlike in the [Eurorack folder](https://github.com/m0xpd/FLIP/tree/main/Eurorack), where there are separate sheets for the two PCBs).
+Before presenting the stripboard layout, we need to look at the schematic for the entire system (presented here as one sheet - unlike in the [Eurorack folder](https://github.com/m0xpd/FLIP/tree/main/Eurorack), where there are separate sheets for the two PCBs).
 
 The schematic is linked below (click on the image to open the schematic at higher-resolution, which you can download):
 <p align='center'>
