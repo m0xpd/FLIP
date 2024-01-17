@@ -15,3 +15,5 @@ There is also a schematic (click on the image below to open a larger version) an
 <p align='center'>
 <img width=70%, src="https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/Files/Flip%20Control%20Board.jpg">
 </p>
+
+The BoM specifies the Thonkiconn PJ398SM Jacks, Alpha 9mm potentiometer and Song Huei trimmer, which are important for mechanical as well as electrical compatability.
