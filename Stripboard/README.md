@@ -27,7 +27,7 @@ There is a fairly detailed description of circuit operation, which references th
 
 # Stripboard Layout
 
-The prototype stripboard system (seen pictured at the head of this page) was made from a DIYLC design, which was found to have a few errors (this was my first time using the software). 
+The prototype stripboard system seen pictured at the head of this page was made from a DIYLC design, which was found to have a few errors (this was my first time using the software). 
 
 I corrected these errors on the prototype and on the layout, yielding the following design:
 
