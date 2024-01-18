@@ -20,6 +20,10 @@ Two versions of the hardware for FLIP are described in this repository. First, t
 
 FLIP has two controls: the main 'probability' control and a control for the CV attenuverter. Advancing the probability control clockwise increases the probability that output A will be activated. When a positive CV is input, advancing the attenuverter control clockwise also increases the probability that output A will be activated (the opposite sense applies when a negative CV is input). 
 
+# Demo Video
+
+A short video, introducing FLIP and demonstrating its functions, is available [here](https://youtu.be/AdmhHrzYtKI) 
+
 # License
 
 Material in this repository, including the circuit design and Eurorack implementation of FLIP, is published under a Creative Commons CC BY-SA 4.0 [License](https://github.com/m0xpd/Flip/blob/main/LICENSE.txt)
