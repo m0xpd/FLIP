@@ -18,4 +18,4 @@ There is also a schematic (click on the image below to open a larger version) an
 
 The BoM specifies the Thonkiconn PJ398SM Jacks, Alpha 9mm potentiometer and Song Huei trimmer, which are important for mechanical as well as electrical compatability.
 
-As I've mentioned on the Main Board page, this is only the second project I've developed in KiCad and I'm still feeling my way around. The only aspect of the control PCB board which I regret is the (default, library) footprint for the transistors Q1:3, which has unnecessarily small and close pads. It works, but it asks a lot during soldering. I will modify this if a "v2" revision is ever made. 
+As I've mentioned on the Main Board page, this is only the second project I've developed in KiCad and I'm still feeling my way around. The only aspect of the control board PCB which I regret is the (default, library) footprint for the transistors Q1:3, which has unnecessarily small and close pads. It works, but it asks a lot during soldering. I will modify this if a "v2" revision is ever made. 
