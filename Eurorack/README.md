@@ -1,6 +1,6 @@
 # A Eurorack Implementation of the 'FLIP' Bernoulli Gate
 
-The Eurorack version of Flip is implemented as a 'sandwich' construction of two printed circuit boards:
+The Eurorack version of FLIP is implemented as a 'sandwich' construction of two printed circuit boards:
 
 <p align='center'>
 <img width=20%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20Sandwich%20Construction%20LoRes.jpg">
