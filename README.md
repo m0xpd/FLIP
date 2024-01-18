@@ -14,7 +14,7 @@ When the probability is set to p = 0.5, the process is equivalent to a "coin tos
 
 Bernoulli Gates have become familiar objects in modular synthesizers, the definitive example being Mutable Instruments' [Branches](https://pichenettes.github.io/mutable-instruments-documentation/modules/branches/) and various clones from other manufacturers. There is also a Bernoulli Gate within Mutable Instruments' [Marbles](https://pichenettes.github.io/mutable-instruments-documentation/modules/marbles/) module (and its clones), which is where it caught my interest. These implementations are achieved in software, running on microcontrollers.
 
-# FLIP; a Hardware Bernoulli Gate
+# FLIP - a Hardware Bernoulli Gate
 
 The Bernoulli Gate described in this repository is distinguished by being a completely **hardware realisation**. It generates the Bernoulli variable by a test of the instantaneous value of a linear ramp waveform. This ramp is running at a frequency several orders of magnitude above the clock frequencies used in synthesiser timing applications and is asynchronous to the input. Further, the ramp waveform is frequency-modulated by a second asynchronous signal, such that there is no possibility of 'phase' lock between an input clock and a subharmonic of the ramp waveform; the process is sufficiently random.
 
