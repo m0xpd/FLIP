@@ -22,7 +22,7 @@ FLIP has two controls: the main 'probability' control and a control for the CV a
 
 # Demo Video
 
-A [short video](https://youtu.be/AdmhHrzYtKI), introduces FLIP and demonstrates its functions. The video is never going to win any oscars, not least as the camera is out of focus for the central 'demo' section. I don't know what changed beteen recording the music for the intro and 'closing credits' and the main, central demo portion. However, the message is clear, even if the image is not.    
+A [short video](https://youtu.be/AdmhHrzYtKI), introduces FLIP and demonstrates its functions. The video is never going to win any oscars, not least as the camera is out of focus for the central 'demo' section. I don't know what changed between recording the music for the intro and 'closing credits' and the main, central demo portion. However, the message is clear, even if the image is not.    
 
 # License
 
