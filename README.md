@@ -6,7 +6,7 @@ This repository describes a 'Bernoulli Gate', intended for switching application
 <img width=40%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20Front%20Perspective%20Right.jpg">
 </p>
   
-You can go directly to the [Eurorack design details](https://github.com/m0xpd/Flip/blob/main/Eurorack/README.md), or read about the background to this module...
+You can go directly to details of the [Eurorack module](https://github.com/m0xpd/Flip/blob/main/Eurorack/README.md), or a [stripboard layout for the circuit](https://github.com/m0xpd/FLIP/tree/main/Stripboard), or read more about the background to this new design...
 
 A Bernoulli Gate, named for Swiss mathematician and physicist [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli), takes a clock or gate input and routes it to one of two outputs, A & B, based on the 
 value of an internally generated [Bernoulli Variable](https://web.stanford.edu/class/archive/cs/cs109/cs109.1178/lectureHandouts/070-bernoulli-binomial.pdf). When this (discrete, Boolean) random variable has value 1 the clock is routed to output A, and when the variable has value 0 the clock is routed to output B. The probability of the Bernoulli variable assuming value "1", p, is set by a front panel control (and/or by CV input). The probability of the variable assuming value "0" is (of course) 1-p. 
