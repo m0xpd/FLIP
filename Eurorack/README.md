@@ -1,4 +1,4 @@
-# A Eurorack Implementation of the 'FLIP' Bernoulli Gate
+# The 'FLIP' Bernoulli Gate for Eurorack
 
 The Eurorack version of FLIP is implemented as a 'sandwich' construction of two printed circuit boards:
 
