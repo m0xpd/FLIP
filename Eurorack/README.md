@@ -8,7 +8,7 @@ The Eurorack version of FLIP is implemented as a 'sandwich' construction of two 
 
 The [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/README.md) contains the majority of the active electronics, realised in 4000 series CMOS logic and a quad op-amp.
 
-The [control board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/README.md) accommodates all the [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) user interface components, the input/output jacks, and the output buffer stages. 
+The [control board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/README.md) accommodates all the [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) components and the output buffer stages. 
 
 The component board is mounted to the front panel by the probability control potentiometer, RV2, and five PJ398SM ('Thonkiconn') 3.5mm jack sockets.
 
