@@ -6,7 +6,7 @@ The Eurorack version of FLIP is implemented as a 'sandwich' construction of two 
 <img width=20%, src="https://github.com/m0xpd/FLIP/blob/main/Graphics/Flip%20Sandwich%20Construction%20LoRes.jpg">
 </p>
 
-The [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/README.md) contains the majority of the active electronics, realised in 4000 series CMOS logic and a (TL084) quad op-amp.
+The [main board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Main%20Board/README.md) contains the majority of the active electronics, realised in 4000 series CMOS logic and a quad op-amp.
 
 The [control board](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Control%20Board/README.md) accommodates all the [front panel](https://github.com/m0xpd/FLIP/blob/main/Eurorack/Front%20Panel/README.md) user interface components, the input/output connectors, and the output buffer stages. 
 
