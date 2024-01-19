@@ -63,7 +63,7 @@ Whilst the layout above was developed directly from the prototype stripboard sys
 
 It is offered in good faith and is - as far as I can see - an accurate mirror of my working stripboard system. However, I cannot claim it is yet verified.
 
-I would appreciate either i) verification from anybody who builds from this layout or ii) notification of any errors/omissions. This site will be updated, with appropriate citations, on receipt of such information.
+I would appreciate either i) verification from anybody who builds from this layout or ii) notification of any errors/omissions. This repository will be updated, with appropriate citations, on receipt of such information.
 
 # Board Size and Operation on Different Power Rails
 
